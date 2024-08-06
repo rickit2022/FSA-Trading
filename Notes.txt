@@ -1,0 +1,4 @@
+Due to the large file size of some raw data:
+in data/other/original_wsb_dumps/subreddits
+- 5 other compressed folders will be remove from the submission. 
+- The remaining raw data here is an example of the initial format that project dealt with for wallstreetbets.
